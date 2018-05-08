@@ -19,6 +19,26 @@ h1{
     font-size: 70px;
 }
 
+#h3header{
+    font-family: Robato;
+    font-size: 50px;
+    background-color: orange;
+    border-style: dashed;
+    border-color: green;
+    color: green;
+}
+
+h3{
+    background-color: green;
+    border-style: dotted;
+    border-color: orange;
+    border-width: 15px;
+    color: purple;
+    text-decoration: italic;
+    font-size: 45px;
+    border-radius: 8px;
+}
+
 
 h2{
     color:green;
